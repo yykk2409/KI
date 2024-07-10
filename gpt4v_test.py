@@ -20,7 +20,7 @@ def jtalk(t):
 
 
 # OpenAI API Key
-api_key = "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"
+api_key = "api key"
 
 # Function to encode the image
 def encode_image(image_path):
